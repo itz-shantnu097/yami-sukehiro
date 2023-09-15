@@ -14,7 +14,7 @@ name: default-colors
 -- end: figma-json
 
 ;; **** replace below $ftd.default-colors with $main and remove this line ****
--- ftd.color-scheme colors-data: $ftd.default-colors
+-- ftd.color-scheme colors-data: $main
 
 
 
