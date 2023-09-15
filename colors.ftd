@@ -204,15 +204,15 @@
     dark: #d46a63
 
     -- ftd.color cta-danger-disabled-:
-    light: #faeceb
+    light: {CTA Danger Colors.text-disabled}
     dark: #faeceb
 
     -- ftd.color cta-danger-focused-:
-    light: #d97973
+    light: {CTA Secondary Colors.pressed}
     dark: #d97973
 
     -- ftd.color cta-danger-border-:
-    light: #e9968c
+    light: {Error Colors.border}
     dark: #e9968c
 
     -- ftd.color cta-danger-text-:
@@ -224,7 +224,7 @@
     dark: #feffff
 
     -- ftd.color cta-danger-border-disabled-:
-    light: #2b8074
+    light: {CTA Danger Colors.hover}
     dark: #2b8074
 
     -- ftd.cta-colors cta-danger-:
@@ -239,15 +239,15 @@
     border-disabled: $cta-danger-border-disabled-
 
     -- ftd.color accent-primary-:
-    light: #000000
+    light: {Background Colors.step-1}
     dark: #000000
 
     -- ftd.color accent-secondary-:
-    light: #4fb2df
+    light: {Accent Colors.tertiary}
     dark: #4fb2df
 
     -- ftd.color accent-tertiary-:
-    light: #c5cbd7
+    light: {Background Colors.base}
     dark: #c5cbd7
 
     -- ftd.pst accent-:
@@ -340,11 +340,11 @@
     dark: #7a65c7
 
     -- ftd.color custom-five-:
-    light: #eb57be
+    light: {CTA Danger Colors.hover}
     dark: #eb57be
 
     -- ftd.color custom-six-:
-    light: #ef8dd6
+    light: {CTA Danger Colors.border}
     dark: #ef8dd6
 
     -- ftd.color custom-seven-:
@@ -352,7 +352,7 @@
     dark: #7564be
 
     -- ftd.color custom-eight-:
-    light: #d554b3
+    light: {Background Colors.overlay}
     dark: #e2e4e7
 
     -- ftd.color custom-nine-:
